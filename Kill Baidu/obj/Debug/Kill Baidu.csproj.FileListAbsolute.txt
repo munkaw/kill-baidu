@@ -1,0 +1,8 @@
+D:\Project C#\Kill Baidu\Kill Baidu\bin\Debug\Kill Baidu.exe.config
+D:\Project C#\Kill Baidu\Kill Baidu\bin\Debug\Kill Baidu.exe
+D:\Project C#\Kill Baidu\Kill Baidu\bin\Debug\Kill Baidu.pdb
+D:\Project C#\Kill Baidu\Kill Baidu\obj\Debug\Kill_Baidu.Form1.resources
+D:\Project C#\Kill Baidu\Kill Baidu\obj\Debug\Kill_Baidu.Properties.Resources.resources
+D:\Project C#\Kill Baidu\Kill Baidu\obj\Debug\Kill Baidu.csproj.GenerateResource.Cache
+D:\Project C#\Kill Baidu\Kill Baidu\obj\Debug\Kill Baidu.exe
+D:\Project C#\Kill Baidu\Kill Baidu\obj\Debug\Kill Baidu.pdb
